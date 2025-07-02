@@ -20,8 +20,8 @@ This project uses **MediaPipe** and **OpenCV** to track a user's hand in real ti
 
 .
 ├── Hand.py          # Hand tracking class using MediaPipe
-├── sample.py        # Main OpenCV app that opens camera and displays hand detection
-└── README.md        # You're here
+├── main.py        # Main OpenCV app that opens camera and displays hand detection
+└── README.md       
 
 ````
 
